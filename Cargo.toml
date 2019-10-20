@@ -1,0 +1,10 @@
+[package]
+name = "future_pro"
+version = "0.1.0"
+authors = ["apple <tynr426@126.com>"]
+edition = "2018"
+
+[dependencies]
+
+futures = "0.1.25"
+tokio-core="*"
